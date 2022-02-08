@@ -1,13 +1,15 @@
 ### Hi there 👋, My Name is Abdulrahmman
 
-- Interested in cyber security
-- I'm From Saudi Arabia
-- I love Russia 
-- 🇷🇺 ❤️ 🇸🇦
 ![- Interested in cyber security](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
+- Interested in cyber security
+- Games Hacking Developer
+- Full Stack Web Developer
+- 🇷🇺 🇸🇦
 
+_____
 Skills: - C/C++ C# Python Html Css Js DOM React Bootstrap Express MongoDB php Node.js Heroku MsSql MySql
+_____
 - Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/D7-M)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/D7M)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/blw.i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](D7M#3300)  
