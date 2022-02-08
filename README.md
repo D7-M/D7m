@@ -12,7 +12,3 @@ codeSTACKr | InstagramcodeSTACKr | | Discord
 
 Languages and Tools:
 Visual Studio Code
-
-PythonGitHubCSS3SQLMySQLGitGitHub
-
-
